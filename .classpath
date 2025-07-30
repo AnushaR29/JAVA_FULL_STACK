@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<classpath>
+    <classpathentry kind="src" path="Day_2"/>
+    <classpathentry kind="src" path="Day_3"/>
+    <classpathentry kind="src" path="Day_4"/>
+    <classpathentry kind="src" path="Day_5"/>
+    <classpathentry kind="src" path="Day_6"/>
+    <classpathentry kind="src" path="Day_7"/>
+    <classpathentry kind="src" path="Day_8"/>
+    <classpathentry kind="src" path="Day_9"/>
+    <classpathentry kind="src" path="Day_15"/>
+    <classpathentry kind="src" path="Day_16"/>
+    <classpathentry kind="src" path="Day_17"/>
+    <classpathentry kind="src" path="Day_18"/>
+    <classpathentry kind="output" path="bin"/>
+</classpath>
